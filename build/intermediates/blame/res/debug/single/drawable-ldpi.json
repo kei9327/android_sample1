@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ambilwarna_target.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-ldpi\\ambilwarna_target.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/ambilwarna_target.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/drawable-ldpi/ambilwarna_target.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ambilwarna_cursor.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-ldpi\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/ambilwarna_arrow_down.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/drawable-ldpi/ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/ambilwarna_cursor.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/drawable-ldpi/ambilwarna_cursor.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/ambilwarna_arrow_right.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/drawable-ldpi/ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ambilwarna_arrow_down.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-ldpi\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ambilwarna_arrow_right.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-ldpi\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/drawable-ldpi/ic_launcher.png"
+    }
+]

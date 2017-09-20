@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/xml/mimetypes.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/xml/mimetypes.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/res/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\global_tracker.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\mimetypes.xml",
+        "source": "/Users/kms/Documents/Project/Knowlounge/fbwebapp/platforms/android/E:\\Project\\Knowlounge\\fbwebapp\\platforms\\android\\res\\xml\\mimetypes.xml"
+    }
+]
